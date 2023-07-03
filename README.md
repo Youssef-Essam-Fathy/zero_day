@@ -1,8 +1,7 @@
 <h1>Markdown README file:</h1>
 <p>
-  Here is my first README in this project 
+  <u>Here is my first README in this project:</u> 
 </p>
-<br>
 <ul>
   <li>Read</li>
   <li>Write</li>
