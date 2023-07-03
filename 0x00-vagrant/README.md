@@ -4,4 +4,4 @@
   <li>Do right things</li>
   <li>Trust yourself</li>
 </ol>
-<h2>I am sure you will be good soon.</h2>
+<h2>I am sure you will reach soon.</h2>
